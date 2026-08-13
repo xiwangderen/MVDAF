@@ -1,0 +1,16 @@
+modality: T1A
+train_manifest: /private/folds/fold_1/features_inner_train.csv
+val_manifest: /private/folds/fold_1/features_inner_val.csv
+output_dir: /private/outputs/fold_1/stage2_T1A
+device: cuda:0
+seed: 2026
+candidate_threshold: 0.75
+batch_size: 256
+epochs: 200
+lr: 0.0001
+temperature: 0.07
+queue_capacity: 4096
+compact_weight: 0.16
+compact_start_epoch: 4
+malignant_compact_weight: 1.25
+

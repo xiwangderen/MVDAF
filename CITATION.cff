@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "MVDAF: Multi-View Dynamic Adaptive Fusion"
+type: software
+version: 0.1.0
+license: Apache-2.0
+authors:
+  - family-names: Wu
+    given-names: Jiajun
+  - family-names: Ou
+    given-names: Song
+  - family-names: Wang
+    given-names: Xirui
+  - family-names: Dai
+    given-names: Yuan
+  - family-names: Zhu
+    given-names: Huiyong
+  - family-names: Feng
+    given-names: Zunlei
+  - family-names: Yu
+    given-names: Dan
+  - family-names: Lei
+    given-names: Jie
+preferred-citation:
+  type: article
+  title: "Multi-View Dynamic Adaptive Fusion for Parotid Gland Tumor Classification in Multi-Sequence MRI"
+  authors:
+    - family-names: Wu
+      given-names: Jiajun
+    - family-names: Ou
+      given-names: Song
+    - family-names: Wang
+      given-names: Xirui
+    - family-names: Dai
+      given-names: Yuan
+    - family-names: Zhu
+      given-names: Huiyong
+    - family-names: Feng
+      given-names: Zunlei
+    - family-names: Yu
+      given-names: Dan
+    - family-names: Lei
+      given-names: Jie
+  year: 2026
+

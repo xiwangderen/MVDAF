@@ -1,0 +1,6 @@
+manifest: /private/folds/fold_1/stage1_T1A_export.csv
+checkpoint: /private/outputs/fold_1/stage1_T1A/best.pt
+output_dir: /private/features/fold_1/T1A
+device: cuda:0
+batch_size: 64
+
